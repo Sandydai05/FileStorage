@@ -1,0 +1,30 @@
+        [
+        {
+            'model': 'ipadAir',
+            'baseImgUrl': 'https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-select.jpg?raw=true',
+            'modeldata': [
+            { "id": "A001", "color": "太空灰色", "colorValue": "#afb1b4","price": 18900, "storage": "64GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%AA%E7%A9%BA%E7%81%B0.png?raw=true" },
+            { "id": "A002", "color": "銀色", "colorValue": "#dee1df","price": 18900, "storage": "64GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E9%8A%80%E8%89%B2.png?raw=true" },
+            { "id": "A003", "color": "玫瑰金色", "colorValue": "#eac9c2","price": 18900, "storage": "64GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%8E%AB%E7%91%B0%E9%87%91.png?raw=true" },
+            { "id": "A004", "color": "綠色",  "colorValue": "#cbdcc9","price": 18900, "storage": "64GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%B6%A0%E8%89%B2.png?raw=true" },
+            { "id": "A005", "color": "天藍色","colorValue": "#c9d9e5","price": 18900, "storage": "64GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%A9%E8%97%8D%E8%89%B2.png?raw=true" },
+
+            { "id": "B001", "color": "太空灰色", "colorValue": "#afb1b4","price": 23900, "storage": "256GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%AA%E7%A9%BA%E7%81%B0.png?raw=true" },
+            { "id": "B002", "color": "銀色", "colorValue": "#dee1df","price": 23900, "storage": "256GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E9%8A%80%E8%89%B2.png?raw=true" },
+            { "id": "B003", "color": "玫瑰金色", "colorValue": "#eac9c2","price": 23900, "storage": "256GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%8E%AB%E7%91%B0%E9%87%91.png?raw=true" },
+            { "id": "B004", "color": "綠色",  "colorValue": "#cbdcc9","price": 23900, "storage": "256GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%B6%A0%E8%89%B2.png?raw=true" },
+            { "id": "B005", "color": "天藍色","colorValue": "#c9d9e5","price": 23900, "storage": "256GB", "network": "Wi-Fi", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%A9%E8%97%8D%E8%89%B2.png?raw=true" },
+
+            { "id": "C001", "color": "太空灰色", "colorValue": "#afb1b4","price":23200, "storage": "64GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%AA%E7%A9%BA%E7%81%B0.png?raw=true" },
+            { "id": "C002", "color": "銀色", "colorValue": "#dee1df","price":23200, "storage": "64GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E9%8A%80%E8%89%B2.png?raw=true" },
+            { "id": "C003", "color": "玫瑰金色", "colorValue": "#eac9c2","price":23200, "storage": "64GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%8E%AB%E7%91%B0%E9%87%91.png?raw=true" },
+            { "id": "C004", "color": "綠色",  "colorValue": "#cbdcc9","price":23200, "storage": "64GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%B6%A0%E8%89%B2.png?raw=true" },
+            { "id": "C005", "color": "天藍色","colorValue": "#c9d9e5","price":23200, "storage": "64GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%A9%E8%97%8D%E8%89%B2.png?raw=true" },
+
+            { "id": "D001", "color": "太空灰色", "colorValue": "#afb1b4","price": 28200, "storage": "256GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%AA%E7%A9%BA%E7%81%B0.png?raw=true" },
+            { "id": "D002", "color": "銀色", "colorValue": "#dee1df","price": 28200, "storage": "256GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E9%8A%80%E8%89%B2.png?raw=true" },
+            { "id": "D003", "color": "玫瑰金色", "colorValue": "#eac9c2","price": 28200, "storage": "256GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%8E%AB%E7%91%B0%E9%87%91.png?raw=true" },
+            { "id": "D004", "color": "綠色",  "colorValue": "#cbdcc9","price": 28200, "storage": "256GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E7%B6%A0%E8%89%B2.png?raw=true" },
+            { "id": "D005", "color": "天藍色","colorValue": "#c9d9e5","price": 28200, "storage": "256GB", "network": "Wi-Fi+行動網路", "imageUrl": "https://github.com/Sandydai05/Sandydai05.github.io/blob/main/AppleImg/ipad-air-%E5%A4%A9%E8%97%8D%E8%89%B2.png?raw=true" }]
+        }
+        ]
