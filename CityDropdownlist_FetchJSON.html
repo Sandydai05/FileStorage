@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Fetch JSON動態生成City & District下拉式選單</h1>
+
+    <!--     下拉選單長這樣
+        <select id="citiesExample" name="cities">
+            <option value="taipei">台北</option>
+            <option value="taoyuan">桃園</option>
+            <option value="taichung">台中</option>
+        </select> 
+        -->
+
+    <select id='city' name='city'></select>
+    <select id='district' name='district'></select>
+    <input type='submit' value='提交資料' disabled>
+
+    <div id='msg'></div>
+
+    <script>
+        const citySelect = document.getElementById('city');
+        const districtSelect = document.getElementById('district');
+        const submitButton = document.querySelector('input[type=submit]');
+        const msg = document.getElementById('msg');
+
+        window.onload = createSelectOptions; //不用()，如果加()左邊window.onload會變成結果值不是這個方法
+
+        const url = 'https://raw.githubusercontent.com/Sandydai05/FileStorage/main/SimpleZipCode.json';
+        let zipcodeArray = [];
+        function createSelectOptions() {
+            //抓取網路JSON資料，動態生成City DropdownList
+            fetch(url)
+                .then(response => response.json())
+                .then(result => {
+                    //如果上面沒有直接打JSON資料還要額外多打這行，浪費效能 zipcodeArray = JSON.parse(result);
+                    zipcodeArray = result;
+                    // console.log(zipcodeArray);
+
+                    zipcodeArray.forEach(item => {
+                        let option1 = document.createElement('option');
+                        option1.value = item.city;
+                        option1.text = item.city;
+
+                        citySelect.add(option1, null) //null就是不指定他的索引值
+                    });
+                    let option2 = document.createElement('option');
+                    option2.value = "";
+                    option2.text = '---請選擇縣市---';
+
+                    option2.setAttribute('selected',""); //設定預設值就是選擇這個項目
+                    citySelect.add(option2,0); //加在索引值0第一位的地方，所以預先選擇的就是"請選擇縣市"
+
+                })
+                .finally(() => {
+                    localStorage.setItem('ZipcodeArray',JSON.stringify(zipcodeArray));//將資料儲存在本機，將來要用到的時候可以直接從本機找，這是設定的語法
+                    // console.log(localStorage.getItem('ZipcodeArray'));//取得資料的語法
+            });
+
+            let option3 = document.createElement('option');
+            option3.value = "";
+            option3.text = '---請選擇行政區---';
+            districtSelect.add(option3,null)
+
+            districtSelect.disabled = true;
+        }
+
+        //City選項變更事件
+        citySelect.onchange = citySelectedChange; //如果寫成citySelect.onchange = function(){} 會很冗長，維護不易，建議將方法另外寫
+
+        //取得選取的縣市資料
+        function citySelectedChange(event) {
+            let cityValue = citySelect.selectedOptions[0].value;
+            let cityText = citySelect.selectedOptions[0].text;
+
+            //防呆-如果未選擇city則return
+            //選到第一個選項，因為第一個選項的value是""空字串
+            if(cityValue == ""){
+                districtSelect.disabled = true;
+                msg.innerHTML = "";
+                
+                return;
+            }
+
+            //啟用第二個下拉式選單
+            districtSelect.disabled = false;
+            districtSelect.innerHTML = "";
+
+            //產生District DropdownList ---請選擇行政區---
+            let option0 = document.createElement('option');
+            option0.value = "";
+            option0.text = '---請選擇行政區---';
+            districtSelect.add(option0, null)
+
+            //根據選的縣市來取得新的District資料
+            let cityArray = zipcodeArray.filter(item => item.city == cityText); //filter回傳的是陣列
+            let districts = cityArray[0].districts; //因為filter回傳的是陣列，所以要用索引值0來抓值
+
+            console.log(cityArray);
+            console.log(zipcodeArray)
+            
+            districts.forEach((item) =>{
+                let option1 = document.createElement('option');
+                option1.value = item.district;
+                option1.text = item.district + '-' + item.zipcode;
+
+                districtSelect.add(option1); //可以只給一個參數 也可以多加null或0
+            });
+
+        }
+
+        //兩層下拉式選單都選取後，要採取的動作
+        districtSelect.addEventListener('change', function () {
+            let cityValue = citySelect.selectedOptions[0].value;
+            let cityText = citySelect.selectedOptions[0].text;
+            let districtValue = districtSelect.selectedOptions[0].value;
+            let districtText = districtSelect.selectedOptions[0].text;
+
+            if(cityValue != "" && districtValue!=""){
+                msg.innerText = cityText + "," + districtText;
+                submitButton.disabled = false;
+            }
+            else{
+                msg.innerHTML = "";
+                submitButton.disabled = true;
+            }
+        });
+
+        submitButton.addEventListener('click', submitData);
+
+        //Submit提交資料
+        function submitData() {
+            alert('你提交了資料');
+
+            //FormData
+            let formData = new FormData();
+            formData.append('city',citySelect.selectedOptions[0].value);
+            formData.append('district',districtSelect.selectedOptions[0].text);
+
+            let xhr = new XMLHttpRequest();
+            xhr.open('POST','https://www.codemagic.com.tw');
+            xhr.send(formData);
+        }
+    </script>
+</body>
+
+</html> 
