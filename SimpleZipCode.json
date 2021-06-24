@@ -1,0 +1,1244 @@
+[
+    {
+        "city": "臺北市",
+        "districts": [
+            {
+                "zipcode": "100"
+            },
+            {
+                "zipcode": "103"
+            },
+            {
+                "zipcode": "104"
+            },
+            {
+                "zipcode": "105"
+            },
+            {
+                "zipcode": "106"
+            },
+            {
+                "zipcode": "108"
+            },
+            {
+                "zipcode": "110"
+            },
+            {
+                "zipcode": "111"
+            },
+            {
+                "zipcode": "112"
+            },
+            {
+                "zipcode": "114"
+            },
+            {
+                "zipcode": "115"
+            },
+            {
+                "zipcode": "116"
+            }
+        ]
+    },
+    {
+        "city": "基隆市",
+        "districts": [
+            {
+                "zipcode": "200"
+            },
+            {
+                "zipcode": "201"
+            },
+            {
+                "zipcode": "202"
+            },
+            {
+                "zipcode": "203"
+            },
+            {
+                "zipcode": "204"
+            },
+            {
+                "zipcode": "205"
+            },
+            {
+                "zipcode": "206"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "districts": [
+            {
+                "zipcode": "207"
+            },
+            {
+                "zipcode": "208"
+            },
+            {
+                "zipcode": "220"
+            },
+            {
+                "zipcode": "221"
+            },
+            {
+                "zipcode": "222"
+            },
+            {
+                "zipcode": "223"
+            },
+            {
+                "zipcode": "224"
+            },
+            {
+                "zipcode": "226"
+            },
+            {
+                "zipcode": "227"
+            },
+            {
+                "zipcode": "228"
+            },
+            {
+                "zipcode": "231"
+            },
+            {
+                "zipcode": "232"
+            },
+            {
+                "zipcode": "233"
+            },
+            {
+                "zipcode": "234"
+            },
+            {
+                "zipcode": "235"
+            },
+            {
+                "zipcode": "236"
+            },
+            {
+                "zipcode": "237"
+            },
+            {
+                "zipcode": "238"
+            },
+            {
+                "zipcode": "239"
+            },
+            {
+                "zipcode": "241"
+            },
+            {
+                "zipcode": "242"
+            },
+            {
+                "zipcode": "243"
+            },
+            {
+                "zipcode": "244"
+            },
+            {
+                "zipcode": "247"
+            },
+            {
+                "zipcode": "248"
+            },
+            {
+                "zipcode": "249"
+            },
+            {
+                "zipcode": "251"
+            },
+            {
+                "zipcode": "252"
+            },
+            {
+                "zipcode": "253"
+            }
+        ]
+    },
+    {
+        "city": "連江縣",
+        "districts": [
+            {
+                "zipcode": "209"
+            },
+            {
+                "zipcode": "210"
+            },
+            {
+                "zipcode": "211"
+            },
+            {
+                "zipcode": "212"
+            }
+        ]
+    },
+    {
+        "city": "宜蘭縣",
+        "districts": [
+            {
+                "zipcode": "260"
+            },
+            {
+                "zipcode": "263"
+            },
+            {
+                "zipcode": "261"
+            },
+            {
+                "zipcode": "262"
+            },
+            {
+                "zipcode": "264"
+            },
+            {
+                "zipcode": "265"
+            },
+            {
+                "zipcode": "266"
+            },
+            {
+                "zipcode": "267"
+            },
+            {
+                "zipcode": "268"
+            },
+            {
+                "zipcode": "269"
+            },
+            {
+                "zipcode": "270"
+            },
+            {
+                "zipcode": "272"
+            },
+            {
+                "zipcode": "290"
+            }
+        ]
+    },
+    {
+        "city": "釣魚臺",
+        "districts": [
+            {
+                "zipcode": "290"
+            }
+        ]
+    },
+    {
+        "city": "新竹市",
+        "districts": [
+            {
+                "zipcode": "300"
+            },
+            {
+                "zipcode": "300"
+            },
+            {
+                "zipcode": "300"
+            }
+        ]
+    },
+    {
+        "city": "新竹縣",
+        "districts": [
+            {
+                "zipcode": "308"
+            },
+            {
+                "zipcode": "302"
+            },
+            {
+                "zipcode": "303"
+            },
+            {
+                "zipcode": "304"
+            },
+            {
+                "zipcode": "305"
+            },
+            {
+                "zipcode": "306"
+            },
+            {
+                "zipcode": "307"
+            },
+            {
+                "zipcode": "310"
+            },
+            {
+                "zipcode": "311"
+            },
+            {
+                "zipcode": "312"
+            },
+            {
+                "zipcode": "313"
+            },
+            {
+                "zipcode": "314"
+            },
+            {
+                "zipcode": "315"
+            }
+        ]
+    },
+    {
+        "city": "桃園市",
+        "districts": [
+            {
+                "zipcode": "320"
+            },
+            {
+                "zipcode": "324"
+            },
+            {
+                "zipcode": "325"
+            },
+            {
+                "zipcode": "326"
+            },
+            {
+                "zipcode": "327"
+            },
+            {
+                "zipcode": "328"
+            },
+            {
+                "zipcode": "330"
+            },
+            {
+                "zipcode": "333"
+            },
+            {
+                "zipcode": "334"
+            },
+            {
+                "zipcode": "335"
+            },
+            {
+                "zipcode": "336"
+            },
+            {
+                "zipcode": "337"
+            },
+            {
+                "zipcode": "338"
+            }
+        ]
+    },
+    {
+        "city": "苗栗縣",
+        "districts": [
+            {
+                "zipcode": "350"
+            },
+            {
+                "zipcode": "351"
+            },
+            {
+                "zipcode": "352"
+            },
+            {
+                "zipcode": "353"
+            },
+            {
+                "zipcode": "354"
+            },
+            {
+                "zipcode": "356"
+            },
+            {
+                "zipcode": "357"
+            },
+            {
+                "zipcode": "358"
+            },
+            {
+                "zipcode": "360"
+            },
+            {
+                "zipcode": "361"
+            },
+            {
+                "zipcode": "362"
+            },
+            {
+                "zipcode": "363"
+            },
+            {
+                "zipcode": "364"
+            },
+            {
+                "zipcode": "365"
+            },
+            {
+                "zipcode": "366"
+            },
+            {
+                "zipcode": "367"
+            },
+            {
+                "zipcode": "368"
+            },
+            {
+                "zipcode": "369"
+            }
+        ]
+    },
+    {
+        "city": "臺中市",
+        "districts": [
+            {
+                "zipcode": "400"
+            },
+            {
+                "zipcode": "401"
+            },
+            {
+                "zipcode": "402"
+            },
+            {
+                "zipcode": "403"
+            },
+            {
+                "zipcode": "404"
+            },
+            {
+                "zipcode": "406"
+            },
+            {
+                "zipcode": "407"
+            },
+            {
+                "zipcode": "408"
+            },
+            {
+                "zipcode": "411"
+            },
+            {
+                "zipcode": "412"
+            },
+            {
+                "zipcode": "413"
+            },
+            {
+                "zipcode": "414"
+            },
+            {
+                "zipcode": "420"
+            },
+            {
+                "zipcode": "421"
+            },
+            {
+                "zipcode": "422"
+            },
+            {
+                "zipcode": "423"
+            },
+            {
+                "zipcode": "424"
+            },
+            {
+                "zipcode": "426"
+            },
+            {
+                "zipcode": "427"
+            },
+            {
+                "zipcode": "428"
+            },
+            {
+                "zipcode": "429"
+            },
+            {
+                "zipcode": "432"
+            },
+            {
+                "zipcode": "433"
+            },
+            {
+                "zipcode": "434"
+            },
+            {
+                "zipcode": "435"
+            },
+            {
+                "zipcode": "436"
+            },
+            {
+                "zipcode": "437"
+            },
+            {
+                "zipcode": "438"
+            },
+            {
+                "zipcode": "439"
+            }
+        ]
+    },
+    {
+        "city": "彰化縣",
+        "districts": [
+            {
+                "zipcode": "500"
+            },
+            {
+                "zipcode": "502"
+            },
+            {
+                "zipcode": "503"
+            },
+            {
+                "zipcode": "504"
+            },
+            {
+                "zipcode": "505"
+            },
+            {
+                "zipcode": "506"
+            },
+            {
+                "zipcode": "507"
+            },
+            {
+                "zipcode": "508"
+            },
+            {
+                "zipcode": "509"
+            },
+            {
+                "zipcode": "510"
+            },
+            {
+                "zipcode": "511"
+            },
+            {
+                "zipcode": "512"
+            },
+            {
+                "zipcode": "513"
+            },
+            {
+                "zipcode": "514"
+            },
+            {
+                "zipcode": "515"
+            },
+            {
+                "zipcode": "516"
+            },
+            {
+                "zipcode": "520"
+            },
+            {
+                "zipcode": "521"
+            },
+            {
+                "zipcode": "522"
+            },
+            {
+                "zipcode": "523"
+            },
+            {
+                "zipcode": "524"
+            },
+            {
+                "zipcode": "525"
+            },
+            {
+                "zipcode": "526"
+            },
+            {
+                "zipcode": "527"
+            },
+            {
+                "zipcode": "528"
+            },
+            {
+                "zipcode": "530"
+            }
+        ]
+    },
+    {
+        "city": "南投縣",
+        "districts": [
+            {
+                "zipcode": "540"
+            },
+            {
+                "zipcode": "541"
+            },
+            {
+                "zipcode": "542"
+            },
+            {
+                "zipcode": "544"
+            },
+            {
+                "zipcode": "545"
+            },
+            {
+                "zipcode": "546"
+            },
+            {
+                "zipcode": "551"
+            },
+            {
+                "zipcode": "552"
+            },
+            {
+                "zipcode": "553"
+            },
+            {
+                "zipcode": "555"
+            },
+            {
+                "zipcode": "556"
+            },
+            {
+                "zipcode": "557"
+            },
+            {
+                "zipcode": "558"
+            }
+        ]
+    },
+    {
+        "city": "嘉義市",
+        "districts": [
+            {
+                "zipcode": "600"
+            },
+            {
+                "zipcode": "600"
+            }
+        ]
+    },
+    {
+        "city": "嘉義縣",
+        "districts": [
+            {
+                "zipcode": "602"
+            },
+            {
+                "zipcode": "603"
+            },
+            {
+                "zipcode": "604"
+            },
+            {
+                "zipcode": "605"
+            },
+            {
+                "zipcode": "606"
+            },
+            {
+                "zipcode": "607"
+            },
+            {
+                "zipcode": "608"
+            },
+            {
+                "zipcode": "611"
+            },
+            {
+                "zipcode": "612"
+            },
+            {
+                "zipcode": "613"
+            },
+            {
+                "zipcode": "614"
+            },
+            {
+                "zipcode": "615"
+            },
+            {
+                "zipcode": "616"
+            },
+            {
+                "zipcode": "621"
+            },
+            {
+                "zipcode": "622"
+            },
+            {
+                "zipcode": "623"
+            },
+            {
+                "zipcode": "624"
+            },
+            {
+                "zipcode": "625"
+            }
+        ]
+    },
+    {
+        "city": "雲林縣",
+        "districts": [
+            {
+                "zipcode": "630"
+            },
+            {
+                "zipcode": "631"
+            },
+            {
+                "zipcode": "632"
+            },
+            {
+                "zipcode": "633"
+            },
+            {
+                "zipcode": "634"
+            },
+            {
+                "zipcode": "635"
+            },
+            {
+                "zipcode": "636"
+            },
+            {
+                "zipcode": "637"
+            },
+            {
+                "zipcode": "638"
+            },
+            {
+                "zipcode": "640"
+            },
+            {
+                "zipcode": "643"
+            },
+            {
+                "zipcode": "646"
+            },
+            {
+                "zipcode": "647"
+            },
+            {
+                "zipcode": "648"
+            },
+            {
+                "zipcode": "649"
+            },
+            {
+                "zipcode": "651"
+            },
+            {
+                "zipcode": "652"
+            },
+            {
+                "zipcode": "653"
+            },
+            {
+                "zipcode": "654"
+            },
+            {
+                "zipcode": "655"
+            }
+        ]
+    },
+    {
+        "city": "臺南市",
+        "districts": [
+            {
+                "zipcode": "700"
+            },
+            {
+                "zipcode": "701"
+            },
+            {
+                "zipcode": "702"
+            },
+            {
+                "zipcode": "704"
+            },
+            {
+                "zipcode": "708"
+            },
+            {
+                "zipcode": "709"
+            },
+            {
+                "zipcode": "710"
+            },
+            {
+                "zipcode": "711"
+            },
+            {
+                "zipcode": "712"
+            },
+            {
+                "zipcode": "713"
+            },
+            {
+                "zipcode": "714"
+            },
+            {
+                "zipcode": "715"
+            },
+            {
+                "zipcode": "716"
+            },
+            {
+                "zipcode": "717"
+            },
+            {
+                "zipcode": "718"
+            },
+            {
+                "zipcode": "719"
+            },
+            {
+                "zipcode": "720"
+            },
+            {
+                "zipcode": "721"
+            },
+            {
+                "zipcode": "722"
+            },
+            {
+                "zipcode": "723"
+            },
+            {
+                "zipcode": "724"
+            },
+            {
+                "zipcode": "725"
+            },
+            {
+                "zipcode": "726"
+            },
+            {
+                "zipcode": "727"
+            },
+            {
+                "zipcode": "730"
+            },
+            {
+                "zipcode": "731"
+            },
+            {
+                "zipcode": "732"
+            },
+            {
+                "zipcode": "733"
+            },
+            {
+                "zipcode": "734"
+            },
+            {
+                "zipcode": "735"
+            },
+            {
+                "zipcode": "736"
+            },
+            {
+                "zipcode": "737"
+            },
+            {
+                "zipcode": "741"
+            },
+            {
+                "zipcode": "744"
+            },
+            {
+                "zipcode": "742"
+            },
+            {
+                "zipcode": "743"
+            },
+            {
+                "zipcode": "745"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "districts": [
+            {
+                "zipcode": "800"
+            },
+            {
+                "zipcode": "801"
+            },
+            {
+                "zipcode": "802"
+            },
+            {
+                "zipcode": "803"
+            },
+            {
+                "zipcode": "804"
+            },
+            {
+                "zipcode": "805"
+            },
+            {
+                "zipcode": "806"
+            },
+            {
+                "zipcode": "807"
+            },
+            {
+                "zipcode": "811"
+            },
+            {
+                "zipcode": "812"
+            },
+            {
+                "zipcode": "813"
+            },
+            {
+                "zipcode": "814"
+            },
+            {
+                "zipcode": "815"
+            },
+            {
+                "zipcode": "817"
+            },
+            {
+                "zipcode": "819"
+            },
+            {
+                "zipcode": "820"
+            },
+            {
+                "zipcode": "821"
+            },
+            {
+                "zipcode": "822"
+            },
+            {
+                "zipcode": "823"
+            },
+            {
+                "zipcode": "824"
+            },
+            {
+                "zipcode": "825"
+            },
+            {
+                "zipcode": "826"
+            },
+            {
+                "zipcode": "827"
+            },
+            {
+                "zipcode": "828"
+            },
+            {
+                "zipcode": "829"
+            },
+            {
+                "zipcode": "830"
+            },
+            {
+                "zipcode": "831"
+            },
+            {
+                "zipcode": "832"
+            },
+            {
+                "zipcode": "833"
+            },
+            {
+                "zipcode": "840"
+            },
+            {
+                "zipcode": "842"
+            },
+            {
+                "zipcode": "843"
+            },
+            {
+                "zipcode": "844"
+            },
+            {
+                "zipcode": "845"
+            },
+            {
+                "zipcode": "846"
+            },
+            {
+                "zipcode": "847"
+            },
+            {
+                "zipcode": "848"
+            },
+            {
+                "zipcode": "849"
+            },
+            {
+                "zipcode": "851"
+            },
+            {
+                "zipcode": "852"
+            }
+        ]
+    },
+    {
+        "city": "南海島",
+        "districts": [
+            {
+                "zipcode": "817"
+            },
+            {
+                "zipcode": "819"
+            }
+        ]
+    },
+    {
+        "city": "澎湖縣",
+        "districts": [
+            {
+                "zipcode": "880"
+            },
+            {
+                "zipcode": "881"
+            },
+            {
+                "zipcode": "882"
+            },
+            {
+                "zipcode": "883"
+            },
+            {
+                "zipcode": "884"
+            },
+            {
+                "zipcode": "885"
+            }
+        ]
+    },
+    {
+        "city": "金門縣",
+        "districts": [
+            {
+                "zipcode": "890"
+            },
+            {
+                "zipcode": "891"
+            },
+            {
+                "zipcode": "892"
+            },
+            {
+                "zipcode": "893"
+            },
+            {
+                "zipcode": "894"
+            },
+            {
+                "zipcode": "896"
+            }
+        ]
+    },
+    {
+        "city": "屏東縣",
+        "districts": [
+            {
+                "zipcode": "900"
+            },
+            {
+                "zipcode": "901"
+            },
+            {
+                "zipcode": "902"
+            },
+            {
+                "zipcode": "903"
+            },
+            {
+                "zipcode": "904"
+            },
+            {
+                "zipcode": "905"
+            },
+            {
+                "zipcode": "906"
+            },
+            {
+                "zipcode": "907"
+            },
+            {
+                "zipcode": "908"
+            },
+            {
+                "zipcode": "909"
+            },
+            {
+                "zipcode": "911"
+            },
+            {
+                "zipcode": "912"
+            },
+            {
+                "zipcode": "913"
+            },
+            {
+                "zipcode": "920"
+            },
+            {
+                "zipcode": "921"
+            },
+            {
+                "zipcode": "922"
+            },
+            {
+                "zipcode": "923"
+            },
+            {
+                "zipcode": "924"
+            },
+            {
+                "zipcode": "925"
+            },
+            {
+                "zipcode": "926"
+            },
+            {
+                "zipcode": "927"
+            },
+            {
+                "zipcode": "928"
+            },
+            {
+                "zipcode": "929"
+            },
+            {
+                "zipcode": "931"
+            },
+            {
+                "zipcode": "932"
+            },
+            {
+                "zipcode": "940"
+            },
+            {
+                "zipcode": "941"
+            },
+            {
+                "zipcode": "942"
+            },
+            {
+                "zipcode": "943"
+            },
+            {
+                "zipcode": "944"
+            },
+            {
+                "zipcode": "945"
+            },
+            {
+                "zipcode": "946"
+            },
+            {
+                "zipcode": "947"
+            }
+        ]
+    },
+    {
+        "city": "臺東縣",
+        "districts": [
+            {
+                "zipcode": "950"
+            },
+            {
+                "zipcode": "951"
+            },
+            {
+                "zipcode": "952"
+            },
+            {
+                "zipcode": "953"
+            },
+            {
+                "zipcode": "954"
+            },
+            {
+                "zipcode": "955"
+            },
+            {
+                "zipcode": "956"
+            },
+            {
+                "zipcode": "957"
+            },
+            {
+                "zipcode": "958"
+            },
+            {
+                "zipcode": "959"
+            },
+            {
+                "zipcode": "961"
+            },
+            {
+                "zipcode": "962"
+            },
+            {
+                "zipcode": "963"
+            },
+            {
+                "zipcode": "964"
+            },
+            {
+                "zipcode": "965"
+            },
+            {
+                "zipcode": "966"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "districts": [
+            {
+                "zipcode": "970"
+            },
+            {
+                "zipcode": "971"
+            },
+            {
+                "zipcode": "972"
+            },
+            {
+                "zipcode": "973"
+            },
+            {
+                "zipcode": "974"
+            },
+            {
+                "zipcode": "975"
+            },
+            {
+                "zipcode": "976"
+            },
+            {
+                "zipcode": "977"
+            },
+            {
+                "zipcode": "978"
+            },
+            {
+                "zipcode": "979"
+            },
+            {
+                "zipcode": "981"
+            },
+            {
+                "zipcode": "982"
+            },
+            {
+                "zipcode": "983"
+            }
+        ]
+    }
+]
